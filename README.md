@@ -16,8 +16,6 @@ cd gapcode-connect
 ./install.sh --setup
 ```
 
-For the longer setup notes, see [`docs/INSTALL.md`](docs/INSTALL.md).
-
 The installer builds the connector. If Go is missing, it installs Go with the
 normal package manager for your system.
 
