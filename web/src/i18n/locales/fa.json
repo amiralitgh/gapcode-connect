@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "dashboard": "داشبورد",
+    "projects": "پروژه‌ها",
+    "providers": "ارائه‌دهنده‌ها",
+    "sessions": "نشست‌ها",
+    "chat": "گفتگو",
+    "cron": "کرون",
+    "bridge": "پل",
+    "skills": "مهارت‌ها",
+    "system": "سیستم"
+  },
+  "common": {
+    "refresh": "تازه‌سازی",
+    "loading": "در حال بارگذاری...",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "close": "بستن",
+    "back": "بازگشت",
+    "delete": "حذف",
+    "search": "جستجو"
+  },
+  "settings": {
+    "general": "عمومی",
+    "language": "زبان",
+    "attachmentSend": "ارسال پیوست",
+    "default": "پیش‌فرض",
+    "idleTimeout": "مهلت بی‌کاری (دقیقه)"
+  },
+  "projects": {
+    "title": "پروژه‌ها",
+    "name": "نام",
+    "language": "زبان",
+    "save": "ذخیره"
+  }
+}

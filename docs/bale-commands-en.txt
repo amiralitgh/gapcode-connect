@@ -1,0 +1,45 @@
+model - Choose what model and reasoning effort to use
+fast - 1.5x speed, 2x usage
+ide - Include current selection, open files, and other IDE context
+permissions - Choose what GapCode is allowed to do
+keymap - Remap TUI shortcuts
+vim - Toggle Vim mode for the composer
+experimental - Toggle experimental features
+approve - Approve one retry of a recent auto-review denial
+memories - Configure memory use and generation
+skills - Use skills to improve how GapCode performs specific tasks
+import - Import setup, this project, and recent chats from Claude Code
+hooks - View and manage lifecycle hooks
+review - Review current changes and find issues
+rename - Rename the current thread
+new - Start a new chat during a conversation
+archive - Archive this session and exit
+delete - Permanently delete this session and exit
+resume - Resume a saved chat
+fork - Fork the current chat
+init - Create an AGENTS.md file with instructions for GapCode
+compact - Summarize conversation to prevent hitting the context limit
+plan - Switch to Plan mode
+goal - Set or view the goal for a long-running task
+agents - View and switch between all active agent sessions
+side - Start a side conversation in an ephemeral fork
+copy - Copy last response as markdown
+export - Export the conversation as markdown
+raw - Toggle raw scrollback mode for copy-friendly terminal selection
+diff - Show git diff (including untracked files)
+mention - Mention a file
+status - Show current session configuration and token usage
+cd - Change the current working directory
+pwd - Show the current working directory
+title - Configure which items appear in the terminal title
+statusline - Configure which items appear in the status line
+theme - Choose a syntax highlighting theme
+pets - Choose or hide the terminal pet
+mcp - List configured MCP tools; use /mcp verbose for details
+logout - Log out of GapCode
+exit - Exit GapCode
+feedback - Send logs to maintainers
+ps - List background terminals
+stop - Stop background terminals
+personality - Choose a communication style for GapCode
+subagents - Switch between this session's subagents
